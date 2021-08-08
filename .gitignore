@@ -1,0 +1,7 @@
+#Ignoring Server Sides dir and files
+/task-tracker-server/node-modules
+/task-tracker-server/package-lock.json
+
+#Ignoring Client Sides
+/task-tracker-client/node_modules
+/task-tracker-client/package-lock.json
